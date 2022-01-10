@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "DTLab4",
+    "slug": "dtlab4",
+    "version": "1.0.0",
+    "privacy": "public",
+    "orientation": "portrait",
+    "icon": "./src/assets/logoDtlab.png",
+    "platforms": ["ios", "android"],
+    "splash": {
+      "image": "./src/assets/splash-dtlab.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#892122"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mtechsp.dtlab4",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.mtechsp.dtlab4",
+      "versionCode": 1
+    }
+  }
+}

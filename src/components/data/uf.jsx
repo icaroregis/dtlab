@@ -1,0 +1,33 @@
+export const uf = [
+  { value: 'AC', label: 'AC', name: 'Acre' },
+  { value: 'AL', label: 'AL', name: 'Alagoas' },
+  { value: 'AP', label: 'AP', name: 'Amapá' },
+  { value: 'AM', label: 'AM', name: 'Amazonas' },
+  { value: 'BA', label: 'BA', name: 'Bahia' },
+  { value: 'CE', label: 'CE', name: 'Ceará' },
+  { value: 'DF', label: 'DF', name: 'Distrito Federal' },
+  { value: 'ES', label: 'ES', name: 'Espírito Santo' },
+  { value: 'GO', label: 'GO', name: 'Goiás' },
+  { value: 'MA', label: 'MA', name: 'Maranhão' },
+  { value: 'MT', label: 'MT', name: 'Mato Grosso' },
+  { value: 'MS', label: 'MS', name: 'Mato Grosso do Sul' },
+  { value: 'MG', label: 'MG', name: 'Minas Gerais' },
+  { value: 'PA', label: 'PA', name: 'Pará' },
+  { value: 'PB', label: 'PB', name: 'Paraíba' },
+  { value: 'PR', label: 'PR', name: 'Paraná' },
+  { value: 'PE', label: 'PE', name: 'Pernambuco' },
+  { value: 'PI', label: 'PI', name: 'Piauí' },
+  { value: 'RJ', label: 'RJ', name: 'Rio de Janeiro' },
+  { value: 'RN', label: 'RN', name: 'Rio Grande do Norte' },
+  { value: 'RS', label: 'RS', name: 'Rio Grande do Sul' },
+  { value: 'RO', label: 'RO', name: 'Rondônia' },
+  { value: 'RR', label: 'RR', name: 'Roraima' },
+  { value: 'SC', label: 'SC', name: 'Santa Catarina' },
+  { value: 'SP', label: 'SP', name: 'São Paulo' },
+  { value: 'SE', label: 'SE', name: 'Sergipe' },
+  { value: 'TO', label: 'TO', name: 'Tocantins' },
+];
+
+export default {
+  uf,
+};
